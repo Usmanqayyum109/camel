@@ -1,0 +1,58 @@
+h1{
+    color :#fff !important ;background-color:#bd1e24 ! important ;
+    text-align: center;
+    font-size: 100px;
+    font-style: initial;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.red{
+    font-size: 80px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:#0067a7 !important;
+    font-style:inherit;
+     font-weight: bolder;
+     
+     
+     text-underline-position: below ;
+     font-stretch: extra-expanded;
+     
+     
+}
+.input{
+    text-align: center;
+    color :#fff !important ;background-color:#f6c700 ! important ;
+    font-size: 50px;
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 0fr;
+    border-width: 15px;
+    border-color: #e97600;
+    
+   
+    border-style: outset;
+    margin-left:  auto;
+    margin-right: auto;
+    width: 49%;
+    padding: 10px;
+    position: absolute;
+    right: 0px;
+    left: 0px;
+
+}
+.lion{
+    display: block;
+}
+
+.my{
+    position: absolute;
+    right: 0px;
+    left: 0px;
+    font-size: 90px;
+    text-align: center;
+    color :#fff !important ;background-color:darkblue ! important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-kerning:auto;
+    border-color: #f6c700;
+}
